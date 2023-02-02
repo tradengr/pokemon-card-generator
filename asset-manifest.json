@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tradengr/pokemon-card-generator/static/css/main.735638e4.css",
-    "main.js": "/tradengr/pokemon-card-generator/static/js/main.727e2516.js",
-    "static/js/787.1e2c5441.chunk.js": "/tradengr/pokemon-card-generator/static/js/787.1e2c5441.chunk.js",
-    "static/media/Pokemon Solid.ttf": "/tradengr/pokemon-card-generator/static/media/Pokemon Solid.5d60be1f7ff5fcc21fc1.ttf",
-    "index.html": "/tradengr/pokemon-card-generator/index.html",
-    "main.735638e4.css.map": "/tradengr/pokemon-card-generator/static/css/main.735638e4.css.map",
-    "main.727e2516.js.map": "/tradengr/pokemon-card-generator/static/js/main.727e2516.js.map",
-    "787.1e2c5441.chunk.js.map": "/tradengr/pokemon-card-generator/static/js/787.1e2c5441.chunk.js.map"
+    "main.css": "/pokemon-card-generator/static/css/main.ea9ec121.css",
+    "main.js": "/pokemon-card-generator/static/js/main.ad701176.js",
+    "static/js/787.1e2c5441.chunk.js": "/pokemon-card-generator/static/js/787.1e2c5441.chunk.js",
+    "static/media/Pokemon Solid.ttf": "/pokemon-card-generator/static/media/Pokemon Solid.5d60be1f7ff5fcc21fc1.ttf",
+    "index.html": "/pokemon-card-generator/index.html",
+    "main.ea9ec121.css.map": "/pokemon-card-generator/static/css/main.ea9ec121.css.map",
+    "main.ad701176.js.map": "/pokemon-card-generator/static/js/main.ad701176.js.map",
+    "787.1e2c5441.chunk.js.map": "/pokemon-card-generator/static/js/787.1e2c5441.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.735638e4.css",
-    "static/js/main.727e2516.js"
+    "static/css/main.ea9ec121.css",
+    "static/js/main.ad701176.js"
   ]
 }
